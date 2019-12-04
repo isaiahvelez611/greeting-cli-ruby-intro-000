@@ -2,5 +2,5 @@
 
 def greeting(name)
   puts "Hello #{name}. It's nice to meet you."
-    greeting(name).strip
+    greeting.strip
   end
